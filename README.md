@@ -1,1 +1,1 @@
-
+This Python script implements a self-driving car system using computer vision techniques and IoT capabilities. It captures real-time images from a Raspberry Pi camera module, processes them to detect lane markings, objects, and traffic signs, and makes driving decisions accordingly. The system utilizes OpenCV for image processing and RPi.GPIO for controlling GPIO pins for external devices.
